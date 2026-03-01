@@ -1,18 +1,9 @@
 # python-assignment-5
 Python Assignment 5
 Task 1 – Input and Loop Processing
-Program Flow:
-- input() statement
-- The program first asks the user to enter a value (e.g., a number or string).
-- This input is stored in a variable for later use.
-- for loop
-- The loop iterates over a range of values (e.g., from 1 to n).
-- At each iteration, the loop performs a specific operation such as printing, calculating, or checking conditions.
-- Conditional statements (if-else)
-- Inside the loop, the program checks conditions (e.g., whether a number is even/odd, positive/negative).
-- Based on the condition, different outputs are displayed.
-- Output
-- Results are printed step by step, showing how the input is processed through the loop.
+- A dictionary stud_dict is defined with student names as keys and their marks as values.
+- The program prompts the user to enter a student's name.
+- Using the entered name, it fetches the corresponding marks from the dictionary and displays them.
 
 Task 2 – Functions and Modular Code
 Program Flow:
