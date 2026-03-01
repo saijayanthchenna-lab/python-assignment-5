@@ -7,16 +7,10 @@ Task 1 – Input and Loop Processing
 
 Task 2 – Functions and Modular Code
 Program Flow:
-- Function Definition (def)
-- A function is created to handle a specific task (e.g., performing a calculation or processing input).
-- This makes the code reusable and organized.
-- Calling the Function
-- The program takes user input using input() and passes it as an argument to the function.
-- The function executes its logic and returns a result.
-- Loop with Function Calls
-- A for loop may be used to repeatedly call the function for multiple values.
-- Each iteration processes the input and prints the result.
-- Final Output
-- The program displays the results of all function calls, showing how modular code simplifies problem-solving.
+- A list num is defined with numbers from 1 to 10.
+- The program prints the original list.
+- It extracts the first five elements using slicing (num[:5]).
+- The extracted sublist is then reversed using slicing with a step of -1 (num1[::-1]).
+
 
 
